@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZDxWqMK8PZWdLK+v9K8t2+JLwxSBlA1PGK1KciOcVs+hHA5bbjoS/FdbL6A6JFRpX+xIf3upubWFgiGGHGj6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Onur\\source\\repos\\PersonelTakip\\PersonelTakipModel\\PersonelTakipModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Onur\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Onur\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}
